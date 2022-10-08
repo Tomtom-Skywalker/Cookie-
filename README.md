@@ -8,7 +8,7 @@
 
 ##### Here Are Some Steps To Follow If You Decide To Download My Bot,
 
-1. Lets Start By Installing Gitbash, After Its Installed Use Right Click IN The Folder You Downloaded The Files To Then Click "Bash Here" Then Enter NPM I To Install The Brain Of The Bot,
+1. Lets Start By Installing Gitbash, After Its Installed Use Right Click IN The Folder You Downloaded The Files To Then Click "Bash Here" Then Enter NPM I To Install The Brain Of The Bot,<br>
 1A. Goto > https://discord.com/developers then login, Click New Application [Like This SS](https://i.imgur.com/eTnWSKW.png) Then Name It And Click On Bot -> Create Bot.
 
 2. After Naming The Application Youll Need The Bot ID & Token [Bot ID](https://i.imgur.com/rmG41rB.png)
