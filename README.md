@@ -22,4 +22,4 @@
 # If You Have Enjoyed My Bot Project Please Star It ~ Thanks For Being Interested *Tomtomvader298
 
 
-![GitHub all releases](https://img.shields.io/github/downloads/Tomtom-Skywalker/Cookie-/total?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues-raw/Tomtom-Skywalker/Cookie-?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/Tomtom-Skywalker/Cookie-/total?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues-raw/Tomtom-Skywalker/Cookie-?style=for-the-badge) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Tomtom-Skywalker/Cookie-?style=for-the-badge)
