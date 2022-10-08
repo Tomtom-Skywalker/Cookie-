@@ -20,3 +20,6 @@
 
 
 # If You Have Enjoyed My Bot Project Please Star It ~ Thanks For Being Interested *Tomtomvader298
+
+
+![GitHub all releases](https://img.shields.io/github/downloads/Tomtom-Skywalker/Cookie-/total)
